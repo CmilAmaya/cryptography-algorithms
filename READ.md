@@ -1,1 +1,0 @@
-This repository contains multiple Jupyter notebooks that explore and implement cryptography algorithms. Each notebook focuses on a specific algorithm or concept, providing both theoretical background and practical examples in Python.
